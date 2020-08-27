@@ -5,7 +5,7 @@ Home: https://github.com/ropensci/traits
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Species trait data from many different sources, including sequence data from 'NCBI', plant trait data from 'BETYdb', plant data from the USDA plants database, data from 'EOL' 'Traitbank', Coral traits data (<https://coraltraits.org>), 'Birdlife' International, and more.
 
