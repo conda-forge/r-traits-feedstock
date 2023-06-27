@@ -1,11 +1,11 @@
-About r-traits
-==============
+About r-traits-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-traits-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/ropensci/traits
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-traits-feedstock/blob/main/LICENSE.txt)
 
 Summary: Species trait data from many different sources, including sequence data from 'NCBI', plant trait data from 'BETYdb', plant data from the USDA plants database, data from 'EOL' 'Traitbank', Coral traits data (<https://coraltraits.org>), 'Birdlife' International, and more.
 
