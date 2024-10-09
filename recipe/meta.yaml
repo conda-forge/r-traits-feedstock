@@ -1,6 +1,5 @@
 {% set version = "0.5.1" %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-traits
@@ -13,8 +12,7 @@ source:
   sha256: 3080887a454d69814cd6cb9683a6750db02cf4c77b40b022ef50d40171ba6aca
 
 build:
-  merge_build_host: true  # [win]
-  number: 0
+  number: 1
   noarch: generic
   rpaths:
     - lib/R/lib/
